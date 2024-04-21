@@ -1,6 +1,6 @@
 # Divine Journey 2 Modlist
 
-Total Mods: 237
+Total Mods: 238
 
 ## Type Key
 
@@ -16,7 +16,7 @@ Total Mods: 237
 | :eyes:        |  4    | Visual            | Improves the visual options of the pack                                                                                  |
 | :world_map:   |  5    | Worldgen          | Changes or improves worldgen                                                                                             |
 | :closed_book: |  3    | Questbook         | Related to the Questbook                                                                                                 |
-| :wastebasket: |  3    | Outdated          | Used to be a different category, but is no longer used, but is still in the pack to allow migration of items             |
+| :wastebasket: |  4    | Outdated          | Used to be a different category, but is no longer used, but is still in the pack to allow migration of items             |
 
 ## Modlist
 
@@ -158,7 +158,7 @@ Mods are required on both clientside and serverside unless otherwise noted.
 | :ring:        | [Modular Magic](https://www.curseforge.com/minecraft/mc-mods/modular-magic)                                                  | [frinn38](https://curseforge.com/members/frinn38)                                    |                    |
 | :ring:        | [More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays)                                                  | [feldim245](https://curseforge.com/members/feldim245)                                | :white_check_mark: |
 | :gear:        | [MoreTweaker](https://www.curseforge.com/minecraft/mc-mods/moretweaker)                                                      | [noeppinoeppi](https://curseforge.com/members/noeppinoeppi)                          |                    |
-| :toolbox:     | [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)                                                    | [Vazkii](https://curseforge.com/members/Vazkii)                                      |                    |
+| :wastebasket: | [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)                                                    | [Vazkii](https://curseforge.com/members/Vazkii)                                      |                    |
 | :toolbox:     | [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)                                                            | [Quetzi](https://curseforge.com/members/Quetzi)                                      |                    |
 | :toolbox:     | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)                                                    | [YaLTeR](https://curseforge.com/members/YaLTeR)                                      |                    |
 | :gear:        | [MPUtils Basic Tools](https://www.curseforge.com/minecraft/mc-mods/mputils-basic-tools)                                      | [GenDeathrow](https://curseforge.com/members/GenDeathrow)                            |                    |
@@ -176,6 +176,7 @@ Mods are required on both clientside and serverside unless otherwise noted.
 | :toolbox:     | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)                                                                    | [Vazkii](https://curseforge.com/members/Vazkii)                                      | :white_check_mark: |
 | :books:       | [NotEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/notenoughids)                                                    | [fewizz_](https://curseforge.com/members/fewizz_)                                    |                    |
 | :toolbox:     | [OAuth](https://www.curseforge.com/minecraft/mc-mods/oauth)                                                                  | [Sintinium](https://curseforge.com/members/Sintinium)                                | :white_check_mark: |
+| :toolbox:     | [Omniwand](https://www.curseforge.com/minecraft/mc-mods/omniwand)                                                            | [invadermonky](https://curseforge.com/members/invadermonky)                          |                    |
 | :gem:         | [DivineRPG (Official)](https://www.curseforge.com/minecraft/mc-mods/official-divinerpg)                                      | [Scimiguy](https://curseforge.com/members/Scimiguy)                                  |                    |
 | :gem:         | [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks)                                                        | [OpenMods](https://curseforge.com/members/OpenMods)                                  |                    |
 | :books:       | [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib)                                                      | [OpenMods](https://curseforge.com/members/OpenMods)                                  |                    |
