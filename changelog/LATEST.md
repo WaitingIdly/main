@@ -19,6 +19,7 @@ View all [changelogs](https://github.com/Divine-Journey-2/Divine-Journey-2/tree/
 
 - Improve rendering performance and memory usage via a number of optimizations (VintageFix).
 - Cache the entry points of mod jars (VintageFix).
+- Disable Project Red 3D Logic Wires, saving ~100mb of memory.
 
 ## Text and Quest Updates:
 
